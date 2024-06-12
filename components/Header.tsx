@@ -1,8 +1,8 @@
 export default function Header() {
     return (
-        <div className="flex justify-between bg-black">
+        <div className="flex justify-between">
             <div className="ml-5">
-                <h1 className="text-2xl">Khoa Le</h1>
+                <h1 className="text-2xl text-[#01C38D] rounded-lg">Khoa Le</h1>
             </div>
             <div className="flex mr-5"> 
                 <div>
