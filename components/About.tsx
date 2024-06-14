@@ -14,7 +14,7 @@ export default function About() {
                     <div className="mx-4 content-center text-center">
                         <h1 className="text-[#01C38D] text-2xl">Cloud Computing</h1>
                         <p className="text-white">
-                            Interested in leveraging cloud technologies to address issues of data storage, scalability, and accessibility.
+                            Interested in leveraging AWS cloud technologies to address issues of data storage, scalability, and availability.
                         </p>
                     </div>
                 </div>

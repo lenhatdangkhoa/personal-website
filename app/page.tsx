@@ -3,7 +3,7 @@ import MainBody from "@/components/MainBody";
 
 export default function Home() {
   return (
-    <div className="bg-[#191E29] mt-2">
+    <div className="bg-black min-h-screen h-full">
       <Header></Header>
       <MainBody></MainBody>
     </div>

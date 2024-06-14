@@ -1,7 +1,8 @@
 import Image from "next/image"
 import profilePic from "../media/profile_pic.jpeg"
 import About from "./About"
-
+import Work from "./Work"
+import Contact from "./Contact"
 export default function MainBody() {
     return (
         <div className="mt-10">
@@ -15,7 +16,8 @@ export default function MainBody() {
                 </div>
             </div>
             <About />
-            
+            <Work />
+            <Contact />
         </div>
         
     )
