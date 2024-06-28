@@ -33,7 +33,7 @@ export default function Work() {
                         <Image src={sweProject} width={500} height={350} alt="ml_proj1" className="rounded-lg"></Image>
                     </div>
                     <div className="bg-black mt-24 rounded-lg text-center">
-                        <h1 className="text-center text-xl text-white mt-2">Hadoop Word Counter</h1>
+                        <h1 className="text-center text-xl text-white mt-2">Spot Instances Pricing Analysis</h1>
                         <h2 className="text-[#01C38D] mb-2">Cloud Computing | Big Data Analysis</h2>
                         <Image src={cloudProject1} width={500} height={300} alt="cloud_proj1"></Image>
                         <Image src={cloudProject2} width={500} height={300} alt="cloud_proj2" className="rounded-b-lg"></Image>
